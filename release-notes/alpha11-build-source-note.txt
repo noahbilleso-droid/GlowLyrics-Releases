@@ -1,0 +1,1 @@
+Alpha 11 is built in an ephemeral branch and the branch is reset after the release is published. The public update channel contains release metadata and installer assets, not the active development source tree.
