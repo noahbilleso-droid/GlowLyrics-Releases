@@ -1,0 +1,7 @@
+{
+  "app": "GlowLyrics",
+  "channel": "alpha",
+  "provider": "github-releases",
+  "repository": "noahbilleso-droid/GlowLyrics-Releases",
+  "currentBootstrap": "2.0.0-alpha.11"
+}
